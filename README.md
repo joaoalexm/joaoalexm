@@ -49,15 +49,6 @@ Tenho grande interesse em aprender na prática, **participar de projetos desafia
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joaoalexm&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalexm&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Objetivo
 
 Busco crescer profissionalmente na área de tecnologia, fortalecer minha base técnica e desenvolver projetos que contribuam para minha formação como futuro profissional de **engenharia de software** e **engenharia de dados**.
