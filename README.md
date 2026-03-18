@@ -1,4 +1,4 @@
-# Hi 👋, I'm João Álex
+# Olá 👋, eu sou João Álex
 
 🎓 **Estudante de Engenharia de Software**
 
