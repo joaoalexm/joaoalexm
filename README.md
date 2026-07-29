@@ -20,7 +20,7 @@ I enjoy learning by doing, taking on challenging projects, and steadily building
 
 <p align="left">
 <a href="https://www.linkedin.com/in/joao-alex-antunes/">
-  <img src="https://img.shields.io/badge/LinkedIn-joao-alex-antunes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
   <a href="https://instagram.com/bye.joaozin">
     <img src="https://img.shields.io/badge/Instagram-@bye.joaozin-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
