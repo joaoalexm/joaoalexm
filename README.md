@@ -2,7 +2,7 @@
 
 🎓 **Software Engineering Student**
 
-🚀 **Building my Path Into Data Engineering**  
+🚀 **Building My Path in Data Engineering**  
 🇧🇷 Brazil
 
 I'm a Software Engineering student with a technical background in Information Technology, currently focused on building a strong foundation for a career in **Data Engineering**.
@@ -19,9 +19,9 @@ I enjoy learning by doing, taking on challenging projects, and steadily building
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/joaoalexm">
-    <img src="https://img.shields.io/badge/GitHub-joaoalexm-181717?style=for-the-badge&logo=github" />
-  </a> 
+<a href="https://www.linkedin.com/in/joao-alex-antunes/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
   <a href="https://instagram.com/bye.joaozin">
     <img src="https://img.shields.io/badge/Instagram-@bye.joaozin-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
