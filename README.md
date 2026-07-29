@@ -1,19 +1,22 @@
-# Olá 👋, eu sou João Álex
+# Hi 👋, I'm João Álex
 
-🎓 **Estudante de Engenharia de Software**
+🎓 **Software Engineering Student**
 
-🚀 **Aprofundando em Engenharia de Dados | SQL Server & Python / Apache Spark**  
+🚀 **Building my Path Into Data Engineering**  
 🇧🇷 Brazil
 
-Sou estudante de **Bacharelado em Engenharia de Software**, com formação técnica em **Informática** e interesse em construir carreira na área de tecnologia, principalmente em **engenharia de dados** e **desenvolvimento de software**.
+I'm a Software Engineering student with a technical background in Information Technology, currently focused on building a strong foundation for a career in **Data Engineering**.
 
-Atualmente, estou aprofundando meus estudos em **SQL Server**, **Python para Engenharia de Dados**, **PySpark** e **Apache Spark**, além de seguir evoluindo no inglês do nível **B1 para B2**.
+Most of my learning happens through practice. I like taking concepts I'm studying and turning them into small exercises and projects, gradually making them more complete as I learn new technologies.
 
-Tenho grande interesse em aprender na prática, **participar de projetos desafiadores e construir minha minha carreira sólida** e de longo prazo na tecnologia.
+I'm currently deepening my knowledge of **SQL Server**, **Python for Data Engineering**, **PySpark**, and **Apache Spark**, while also continuing to improve my English every single day.
+
+I enjoy learning by doing, taking on challenging projects, and steadily building a strong, long-term career in technology.
+
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Connect with Me
 
 <p align="left">
   <a href="https://github.com/joaoalexm">
@@ -26,34 +29,36 @@ Tenho grande interesse em aprender na prática, **participar de projetos desafia
 
 ---
 
-## 🧠 Atualmente estudando e desenvolvendo
+## 🧠 Currently Learning and Building
 
--   📘 Engenharia de Software
+-   📘 Software Engineering
 -   🗄️ SQL Server
--   🐍 Python para Engenharia de Dados
--   ⚡ PySpark e Apache Spark
--   🌍 Inglês (B1 → B2)
--   🧩 Lógica, estruturação de soluções e boas práticas de desenvolvimento
+-   🐍 Python for Data Engineering
+-   ⚡ PySpark and Apache Spark
+-   🌍 Intermediate English
+-   🧩 Problem-solving, solution design, and development best practices
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
 
 ---
 
-## 🚀 Objetivo
+## 🚀 Goal
 
-Busco crescer profissionalmente na área de tecnologia, fortalecer minha base técnica e desenvolver projetos que contribuam para minha formação como futuro profissional de **engenharia de software** e **engenharia de dados**.
+My goal is to grow professionally in technology, strengthen my technical foundation, and build practical projects that prepare me for a career in **Data Engineering**.
 
 ---
 
-⭐ Seja bem-vindo ao meu perfil!  
-🤝 Estou sempre buscando aprender, evoluir e compartilhar minha caminhada na tecnologia.
+⭐ Welcome to my profile!
+
+
+🤝 I'm always looking to learn, improve, and share my journey in technology.
+
